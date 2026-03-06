@@ -7,9 +7,9 @@
       "execution_time_mean": 2.5
     },
     "realtime_playback": {
-      "cpu_mean": 46.0,
-      "memory_mean": 770.0,
-      "execution_time_mean": 0.9
+      "cpu_mean": 73.0,
+      "memory_mean": 1100.0,
+      "execution_time_mean": 1.8
     },
     "bouncing_final_mix": {
       "cpu_mean": 58.0,
