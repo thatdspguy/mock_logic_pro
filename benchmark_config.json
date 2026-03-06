@@ -2,13 +2,13 @@
   "app": "logic_pro",
   "workflows": {
     "loading_project": {
-      "cpu_mean": 35.0,
-      "memory_mean": 600.0,
-      "execution_time_mean": 2.5
+      "cpu_mean": 36.0,
+      "memory_mean": 620.0,
+      "execution_time_mean": 2.6
     },
     "realtime_playback": {
-      "cpu_mean": 50.0,
-      "memory_mean": 800.0,
+      "cpu_mean": 51.0,
+      "memory_mean": 810.0,
       "execution_time_mean": 1.0
     },
     "bouncing_final_mix": {
