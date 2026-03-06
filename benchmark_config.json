@@ -2,19 +2,19 @@
   "app": "logic_pro",
   "workflows": {
     "loading_project": {
-      "cpu_mean": 36.0,
-      "memory_mean": 640.0,
-      "execution_time_mean": 2.6
+      "cpu_mean": 35.0,
+      "memory_mean": 600.0,
+      "execution_time_mean": 2.5
     },
     "realtime_playback": {
-      "cpu_mean": 50.0,
-      "memory_mean": 820.0,
-      "execution_time_mean": 1.0
+      "cpu_mean": 46.0,
+      "memory_mean": 770.0,
+      "execution_time_mean": 0.9
     },
     "bouncing_final_mix": {
-      "cpu_mean": 60.0,
-      "memory_mean": 670.0,
-      "execution_time_mean": 4.5
+      "cpu_mean": 58.0,
+      "memory_mean": 650.0,
+      "execution_time_mean": 4.2
     }
   }
 }
