@@ -12,9 +12,9 @@
       "execution_time_mean": 0.95
     },
     "bouncing_final_mix": {
-      "cpu_mean": 58.0,
-      "memory_mean": 650.0,
-      "execution_time_mean": 4.2
+      "cpu_mean": 78.0,
+      "memory_mean": 950.0,
+      "execution_time_mean": 6.8
     }
   }
 }
